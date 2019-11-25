@@ -1,8 +1,9 @@
 # React-1-Setup
 
-<b>1. Install chocolatey in cmd admin</b>
+<b>1. Install chocolatey in powershell admin</b>
 
      Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+     Set-ExecutionPolicy Unrestricted
  
      
      // type 'choco' to check
