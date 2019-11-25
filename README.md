@@ -48,3 +48,4 @@
 <b>8. Run project in cmd</b>
 
      react-native run-android
+     // type 'adb -s VXXNU19509200029 reverse tcp:8081 tcp:8081' if error run in device
