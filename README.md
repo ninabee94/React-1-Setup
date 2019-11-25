@@ -2,7 +2,8 @@
 
 <b>1. Install chocolatey in cmd admin</b>
 
-     Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object 
+     Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+ 
      
      // type 'choco' to check
      
@@ -10,7 +11,7 @@
      
      choco install -y nodejs.install python2 jdk8
      
-<b>3. Download & install Android Studio
+<b>3. Download & install Android Studio</b>
  
      https://developer.android.com/studio
      
