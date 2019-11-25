@@ -30,7 +30,7 @@
      
 <b>7. Setup for deployment</b>
   
-     Option 1: run in avd
+     Option 1: to run project in avd
      
           open ./AwesomeProject/android in android studio
           open avd icon (top right)
@@ -38,7 +38,7 @@
           install haxm if needed
           
      
-     Option 2: run in device
+     Option 2: to run project in device
      
           enable phone usb debugging
           connect phone & computer to usb
