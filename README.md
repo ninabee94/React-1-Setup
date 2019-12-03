@@ -7,9 +7,10 @@
      
      // type 'choco' to check
      
-<b>2. Install node.js, python2 & jdk8 in cmd admin</b>
+<b>2. Install node.js, python2, jdk8 & yarn in cmd admin</b>
      
      choco install -y nodejs.install python2 jdk8
+     choco install yarn
      
 <b>3. Download & install Android Studio</b>
  
